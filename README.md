@@ -14,33 +14,29 @@
 
 ###
 
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <img align="left" height="169" src="https://i.imgflip.com/ade33w.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" alt="pytorch logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"  />
-  <img width="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="55" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="78" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="78" alt="pytorch logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="78" alt="numpy logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="78" alt="pandas logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="78" alt="go logo"  />
 </div>
 
 ###
 
-<p align="center">STILL LEARNING LIKE A MECHINE, HEHE >:3</p>
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=footer&reversal=true&text=STILL%20LEARNING%20LIKE%20A%20MACHINE%20%3E:3&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=62&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
@@ -52,13 +48,9 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Japiahh/Japiahh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Japiahh/Japiahh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Japiahh/Japiahh/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Japiahh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -91,14 +83,6 @@
 
 <div align="center">
   <img src="https://count.getloli.com/@:Japiahh?theme=booru-lewd&padding=4&offset=72&scale=1.4&align=bottom&pixelated=1&darkmode=0"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
