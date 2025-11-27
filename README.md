@@ -49,7 +49,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=91&section=header&reversal=false&text=STILL%20LEARNING%20LIKE%20A%20MECHINE,%20HEHE%20%3E:3&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=91&section=header&reversal=false&text=STILL%20LEARNING%20LIKE%20A%20MECHINE,%20HEHE%20%3E:3&fontSize=41&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
