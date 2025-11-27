@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">STILL LEARNING LIKE A MECHINE, HEHE >:3</h2>
+<h2 align="center">STILL LEARNING LIKE A MECHINE, HEHE >:3</h2>
 
 ###
 
