@@ -39,8 +39,6 @@ Location: Indonesian, Java Island.
 
 
 
-
-
 #######################################
 ```
 
