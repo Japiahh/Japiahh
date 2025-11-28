@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.imgflip.com/adfoee.gif"  />
+  <img height="100%" src="1322321.jpeg"  />
 </div>
 
 ###
