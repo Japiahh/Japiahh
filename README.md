@@ -1,30 +1,57 @@
+<!--Header-->
+
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img height="295" src="https://i.imgflip.com/adfoee.gif"  />
 </div>
 
 ###
 
+<h1 align="center">Hello World! <img height="35" src="https://i.imgflip.com/adfpaj.gif"/></h1>
+
+###
+
+<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<)<img height="35" src="https://i.imgflip.com/adfph1.gif"/></h1><br><br>I hope i can find a friend in here <3<img height="35" src="https://i.imgflip.com/adfpio.gif"/></h1></p>
+
+<!--header-->
+
+<!--bio-->
+###
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=WELCOME%20TO%20MY%20GITHUB%20UWU&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=6&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h1 align="center">BUKANKAH INI MY BIO😳</h1>
 
+###
+
+<img align="right" height="260" src="https://i.imgflip.com/adfr6z.gif"  />
+
+```csharp
+My Bio
+#######################################
+Username: Japiahh
+WhoamI: Argathans
+Languages: Python & GO
+Waifu: Karbit
+Loves: Chatgpt❤
+Pronouns: Train/ing.
+Location: Indonesian, Java Island.
+```
+
+<!--bio-->
+
+
+
+<!--tech-->
 ###
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+<h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> TECHS <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
 
 ###
 
-<img align="left" height="169" src="https://i.imgflip.com/ade33w.gif"  />
-
-###
+<img align="left" width="200px" src="https://i.imgflip.com/ade33w.gif"/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="78" alt="python logo"  />
@@ -47,18 +74,15 @@
 </div>
 
 ###
+<!--tech-->
+
+
+<!--Contact-->
+###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Japiahh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Japiahh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h1 align="center">  CONTACT ME :3 <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
 
 ###
 
@@ -88,9 +112,16 @@
 </div>
 
 ###
+<!--Contact-->
+
+<!--thanks-->
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://count.getloli.com/@:Japiahh?theme=booru-lewd&padding=4&offset=72&scale=1.4&align=bottom&pixelated=1&darkmode=0"  />
 </div>
 
 ###
+<!--thanks-->
