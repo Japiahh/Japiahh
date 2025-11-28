@@ -40,14 +40,22 @@ Location: Indonesian, Java Island.
 
 <!--bio-->
 
-
-
 <!--tech-->
 ###
 
 <br clear="both">
 
 <h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> TECHS <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
+
+###
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=STILL%20LEARNING%20LIKE%20A%20MACHINE%20%3E:3&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=47&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
@@ -65,17 +73,74 @@ Location: Indonesian, Java Island.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="78" alt="go logo"  />
 </div>
 
+<!--tech-->
+
+<!--stat-->
+###
+
+<br clear="both">
+
+<h1 align="center">STATISTICS</h1>
+
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Japiahh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
 ###
 
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=footer&reversal=true&text=STILL%20LEARNING%20LIKE%20A%20MACHINE%20%3E:3&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=62&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
-<!--tech-->
 
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Japiahh&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Japiahh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Japiahh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Japiahh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--stat-->
 
 <!--Contact-->
 ###
