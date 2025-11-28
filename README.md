@@ -16,16 +16,6 @@
 
 <!--header-->
 
-<!--TRANSPARENT-->
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<!--TRANSPARENT-->
-
 <!--bio-->
 ###
 <br clear="both">
@@ -49,16 +39,6 @@ Location: Indonesian, Java Island.
 ```
 
 <!--bio-->
-
-<!--TRANSPARENT-->
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<!--TRANSPARENT-->
 
 <!--tech-->
 ###
@@ -94,16 +74,6 @@ Location: Indonesian, Java Island.
 </div>
 
 <!--tech-->
-
-<!--TRANSPARENT-->
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<!--TRANSPARENT-->
 
 <!--stat-->
 ###
@@ -143,16 +113,6 @@ Location: Indonesian, Java Island.
 ###
 <!--stat-->
 
-<!--TRANSPARENT-->
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<!--TRANSPARENT-->
-
 <!--Contact-->
 ###
 
@@ -189,16 +149,6 @@ Location: Indonesian, Java Island.
 
 ###
 <!--Contact-->
-
-<!--TRANSPARENT-->
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-<!--TRANSPARENT-->
 
 <!--thanks-->
 ###
