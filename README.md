@@ -36,6 +36,10 @@ Waifu: Karbit
 Loves: Chatgpt❤
 Pronouns: Train/ing.
 Location: Indonesian, Java Island.
+
+
+
+
 ```
 
 <!--bio-->
