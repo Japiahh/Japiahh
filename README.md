@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="295" src="https://i.imgflip.com/adfoee.gif"  />
+  <img height="100%" src="https://i.imgflip.com/adfoee.gif"  />
 </div>
 
 ###
@@ -80,12 +80,12 @@ Location: Indonesian, Java Island.
 
 <br clear="both">
 
-<h1 align="center">STATISTICS</h1>
+<h1 align="center"><img height="35" src="https://i.imgflip.com/adfwyu.gif"/> STATISTICS <img height="35" src="https://i.imgflip.com/adfwyu.gif"/></h1>
 
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/adfx1z.gif"  />
 
 ###
 
@@ -95,7 +95,7 @@ Location: Indonesian, Java Island.
 
 ###
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="200" src="https://i.imgflip.com/adfxa3.gif"  />
 
 ###
 
@@ -155,9 +155,27 @@ Location: Indonesian, Java Island.
 
 <br clear="both">
 
+<h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+
+###
+
 <div align="center">
-  <img src="https://count.getloli.com/@:Japiahh?theme=booru-lewd&padding=4&offset=72&scale=1.4&align=bottom&pixelated=1&darkmode=0"  />
+  <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
 </div>
 
 ###
+
+<h1 align="center"></h1>
+
+###
+
+<br clear="both">
+
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Japiahh?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+<h1 align="center"></h1>
 <!--thanks-->
