@@ -3,7 +3,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100%" src="https://i.imgflip.com/adfoee.gif"  />
+  <img height="400" src="https://i.imgflip.com/adfoee.gif"  />
 </div>
 
 ###
@@ -15,6 +15,16 @@
 <p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<)<img height="35" src="https://i.imgflip.com/adfph1.gif"/></h1><br><br>I hope i can find a friend in here <3<img height="35" src="https://i.imgflip.com/adfpio.gif"/></h1></p>
 
 <!--header-->
+
+<!--TRANSPARENT-->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--TRANSPARENT-->
 
 <!--bio-->
 ###
@@ -39,6 +49,16 @@ Location: Indonesian, Java Island.
 ```
 
 <!--bio-->
+
+<!--TRANSPARENT-->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--TRANSPARENT-->
 
 <!--tech-->
 ###
@@ -74,6 +94,16 @@ Location: Indonesian, Java Island.
 </div>
 
 <!--tech-->
+
+<!--TRANSPARENT-->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--TRANSPARENT-->
 
 <!--stat-->
 ###
@@ -113,6 +143,16 @@ Location: Indonesian, Java Island.
 ###
 <!--stat-->
 
+<!--TRANSPARENT-->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--TRANSPARENT-->
+
 <!--Contact-->
 ###
 
@@ -149,6 +189,16 @@ Location: Indonesian, Java Island.
 
 ###
 <!--Contact-->
+
+<!--TRANSPARENT-->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+<!--TRANSPARENT-->
 
 <!--thanks-->
 ###
