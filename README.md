@@ -36,7 +36,7 @@ WhoamI: Argathans
 Languages: Python & GO
 Waifu: Karbit
 Pronouns: Train/ing.
-Location: Indonesian, Java Island.
+Location: Java Island.
 
 
 
