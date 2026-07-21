@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello World! <img height="35" src="https://i.imgflip.com/adfpaj.gif"/></h1>
+<h1 align="center"><img height="35" src="https://i.imgflip.com/adfpaj.gif"/> Hello World! <img height="35" src="https://i.imgflip.com/adfpaj.gif"/></h1>
 
 ###
 
