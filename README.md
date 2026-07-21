@@ -12,12 +12,7 @@ db   db d88888b db      db       .d88b.       db   d8b   db  .d88b.  d8888b. db 
 YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88888P Y8888D'     
 ```
                                                                                                   
-                                                                                                  
-
-<h1 align="center"><img height="35" src="https://i.imgflip.com/adfpaj.gif"/> Hello World! <img height="35" src="https://i.imgflip.com/adfpaj.gif"/></h1>
-
-###
-
+                                                                                                
 <p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
 
 </h1><br><br>I hope i can find a friend in here.
