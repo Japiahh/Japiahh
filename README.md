@@ -1,7 +1,11 @@
 <!--Header-->
 <br clear="both">
-<a href="https://github.com/Dylandelany#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Dylandelany/Dylandelany/main/profile-card-dark.svg#gh-dark-mode-only">
+
+<a href="#gh-dark-mode-only">
+  <img alt="" src="#gh-dark-mode-only">
+</a>
+<a href="#gh-light-mode-only">
+  <img alt="" src="#gh-light-mode-only">
 </a>
 
 ```ascii
