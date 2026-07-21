@@ -16,6 +16,10 @@ db   db d88888b db      db       .d88b.       db   d8b   db  .d88b.  d8888b. db 
 88   88 88.     88booo. 88booo. `8b  d8'      `8b d8'8b d8' `8b  d8' 88 `88. 88booo. 88  .8D      
 YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88888P Y8888D'     
 ```
+<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
+
+</h1><br><br>I hope i can find a friend in here <img height="35" src="https://i.imgflip.com/adfqd6.gif"/>
+<!--header-->
 
 ###
 
@@ -23,10 +27,6 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 
 [![WAKE UP CITRA](https://img.shields.io/badge/▶-WAKE_UP_CITRA-2ee0ff?style=for-the-badge)](https://Japiahh.github.io/citra-terminal/)
                                                                                              
-<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
-
-</h1><br><br>I hope i can find a friend in here <img height="35" src="https://i.imgflip.com/adfqd6.gif"/>
-<!--header-->
 
 <!--bio-->
 ###
