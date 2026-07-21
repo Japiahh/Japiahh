@@ -85,6 +85,4 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 <div align="center">
   <img src="https://count.getloli.com/@:Japiahh?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-<h1 align="center"></h1>
 <!--thanks-->
