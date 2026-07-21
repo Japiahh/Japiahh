@@ -2,10 +2,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="100%" src="1322321.jpeg"  />
-</div>
-
 ###
 
 <h1 align="center">Hello World! <img height="35" src="https://i.imgflip.com/adfpaj.gif"/></h1>
