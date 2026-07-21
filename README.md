@@ -21,8 +21,6 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 
 <h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> WAKE UP CITRA <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
 
-![Citra Terminal Preview](assets/citra-preview.png)
-
 [![WAKE UP CITRA](https://img.shields.io/badge/▶-WAKE_UP_CITRA-2ee0ff?style=for-the-badge)](https://Japiahh.github.io/citra-terminal/)
                                                                                              
 <p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
