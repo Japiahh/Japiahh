@@ -12,8 +12,7 @@
 
 ###
 
-<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<)<img height="35" src="https://i.imgflip.com/adfph1.gif"/></h1><br><br>I hope i can find a friend in here <3<img height="35" src="https://i.imgflip.com/adfpio.gif"/></h1></p>
-
+<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<)<img height="35" src="https://i.imgflip.com/adfph1.gif"/></h1><br><br>I hope i can find a friend in here.
 <!--header-->
 
 <!--bio-->
