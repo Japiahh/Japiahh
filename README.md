@@ -17,6 +17,8 @@ db   db d88888b db      db       .d88b.       db   d8b   db  .d88b.  d8888b. db 
 YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88888P Y8888D'     
 ```
 
+###
+
 <h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> WAKE UP CITRA <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
 
 [![Wake up Citra](https://img.shields.io/badge/▶-Wake_up_Citra-2ee0ff?style=for-the-badge&logo=terminal)](https://<username>.github.io/citra-terminal/)
