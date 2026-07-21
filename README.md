@@ -56,24 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="104" alt="jupyter logo"  />
 </div>
 
-
 <!--tech-->
 
-<!--stat-->
-###
-
-<br clear="both">
-
-<h1 align="center"><img height="35" src="https://i.imgflip.com/adfwyu.gif"/> STATISTICS <img height="35" src="https://i.imgflip.com/adfwyu.gif"/></h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Japiahh&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-<!--stat-->
 
 <!--thanks-->
 ###
