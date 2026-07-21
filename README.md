@@ -1,11 +1,11 @@
 <!--Header-->
 <br clear="both">
 
-<a href="#gh-dark-mode-only">
-  <img alt="" src="#gh-dark-mode-only">
+<a href="https://github.com/Japiahh#gh-dark-mode-only">
+  <img alt="" src="banner.svg#gh-dark-mode-only">
 </a>
-<a href="#gh-light-mode-only">
-  <img alt="" src="#gh-light-mode-only">
+<a href="https://github.com/Japiahh#gh-light-mode-only">
+  <img alt="" src="banner_light.svg#gh-light-mode-only">
 </a>
 
 ```ascii
