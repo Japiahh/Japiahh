@@ -13,7 +13,7 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 ```                                                                                             
 <p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
 
-</h1><br><br>I hope i can find a friend in here <img height="35" src="https://imgflip.com/gif/ax40lt.gif"/>
+</h1><br><br>I hope i can find a friend in here <img height="35" src="https://imgflip.com/ax40lt.gif"/>
 <!--header-->
 
 <!--bio-->
