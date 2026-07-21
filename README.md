@@ -25,7 +25,7 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 
 <h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> WAKE UP CITRA <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
 
-[![WAKE UP CITRA](https://img.shields.io/badge/▶-WAKE_UP_CITRA-2ee0ff?style=for-the-badge)](https://Japiahh.github.io/citra-terminal/)
+[![WAKE UP CITRA](./)](https://Japiahh.github.io/citra-terminal/)
                                                                                              
 
 <!--bio-->
