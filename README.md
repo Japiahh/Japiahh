@@ -9,10 +9,10 @@
 </a>
 
 <a href="https://github.com/Japiahh#gh-dark-mode-only">
-  <img alt="" src="helloworld/banner2-left-white.svg#gh-dark-mode-only">
+  <img alt="" src="helloworld/banner2-Right-white.svg#gh-dark-mode-only">
 </a>
 <a href="https://github.com/Japiahh#gh-light-mode-only">
-  <img alt="" src="helloworld/banner2-left.svg#gh-light-mode-only">
+  <img alt="" src="helloworld/banner2-center.svg#gh-light-mode-only">
 </a>
 
 <p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
