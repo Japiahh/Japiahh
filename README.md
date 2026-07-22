@@ -21,13 +21,6 @@ YP   YP Y88888P Y88888P Y88888P  `Y88P'        `8b8' `8d8'   `Y88P'  88   YD Y88
 </h1><br><br>I hope i can find a friend in here <img height="35" src="https://i.imgflip.com/adfqd6.gif"/>
 <!--header-->
 
-###
-
-<h1 align="center"> <img height="35" src="https://i.imgflip.com/adfqd6.gif"/> WAKE UP CITRA <img height="35" src="https://i.imgflip.com/adfqd6.gif"/></h1>
-
-[![WAKE UP CITRA](./citra-preview.png)](https://Japiahh.github.io/citra-terminal/)
-                                                                                             
-
 <!--bio-->
 ###
 <br clear="both">
