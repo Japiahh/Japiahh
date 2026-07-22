@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/Japiahh#gh-dark-mode-only">
-  <img alt="" src="helloworld/banner2-right-dark.svg#gh-dark-mode-only">
+  <img alt="" src="helloworld/banner2-left-white.svg#gh-dark-mode-only">
 </a>
 <a href="https://github.com/Japiahh#gh-light-mode-only">
   <img alt="" src="helloworld/banner2-left.svg#gh-light-mode-only">
