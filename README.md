@@ -1,4 +1,4 @@
-<!--Header--> fdjhgiaousdhfgpiaedurg
+<!--Header-->
 
 <br clear="both">
 
