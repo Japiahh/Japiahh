@@ -24,19 +24,19 @@
 ###
 
 ```cmd
-ABOUT______________________________________________                     MY BIO_____________________________________________     WHO?_______________________________________________
+ABOUT______________________________________________                     MY BIO_____________________________________________                    WHO?_______________________________________________
 
-Hello  cruel World! My  name is Jafi, I  am in  the      Username: ................................. Japiahh         mmmm       mmmmmmmm      mmmmmm          mm 
-process  of self-learning to better understand  the      OS: ..................... Debian|Arch (btw)|Windows       ##""""#      """##"""      ##""""##       ####
-fundamentals  of   Natural   Language   Processing,      Role: .................................. Humanbeing      ##"              ##         ##    ##       ####  
-Computer     Vision,     and     Generative     AI.      TextEditor: ................................. Paper      ##"              ##         ##    ##       #  #
-(i hate my life >///<)                                                                                            ##               ##         #######       ##  ## 
-                                                         WhoamI: ................................. Argathans      ##m              ##         ##  "##m      ##  ##
-I hope i can find a friend in here :D                    Prefer: ................................ not to say      ##m              ##         ##  "##m      ###### 
-                                                         Location: ............................. Java Island       ##mmmm#         ##         ##    ##     m##  ##m
-                                                         Waifu: ..................................... karbit         """"          ""         ""    """    ""    ""
-             
-___________________________________________________      ___________________________________________________     ___________________________________________________
+Hello  cruel World! My  name is Jafi, I  am in  the                     Username: ................................. Japiahh                        mmmm       mmmmmmmm      mmmmmm          mm 
+process  of self-learning to better understand  the                     OS: ..................... Debian|Arch (btw)|Windows                      ##""""#      """##"""      ##""""##       ####
+fundamentals  of   Natural   Language   Processing,                     Role: .................................. Humanbeing                     ##"              ##         ##    ##       ####  
+Computer     Vision,     and     Generative     AI.                     TextEditor: ................................. Paper                     ##"              ##         ##    ##       #  #
+(i hate my life >///<)                                                                                                                          ##               ##         #######       ##  ## 
+                                                                        WhoamI: ................................. Argathans                     ##m              ##         ##  "##m      ##  ##
+I hope i can find a friend in here :D                                   Prefer: ................................ not to say                     ##m              ##         ##  "##m      ###### 
+                                                                        Location: ............................. Java Island                      ##mmmm#         ##         ##    ##     m##  ##m
+                                                                        Waifu: ..................................... karbit                        """"          ""         ""    """    ""    ""
+
+___________________________________________________                     ___________________________________________________                     ___________________________________________________
 ```
 
 ### 
