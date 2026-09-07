@@ -82,24 +82,26 @@ ___________________________________________________            |            ____
 <!--thanks-->
 ###
 
+ <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+
 <br clear="both">
 <table>
   <tr>
-    <td>
-      <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+    <td width="38%" valign="top" align="center">
+      <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
     </td>
   </tr>
         
   <tr>
     <td>
-      <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+      lorem ipsum
     </td>
   </tr>
 </table>
 ###
 
 <div align="center">
-  <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
+  
 </div>
 
 ###
