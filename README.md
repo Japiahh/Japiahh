@@ -3,10 +3,10 @@
 <br clear="both">
 
 <a href="https://github.com/Japiahh#gh-dark-mode-only">
-  <img alt="" src="banner-dark1-white.svg#gh-dark-mode-only">
+  <img alt="" src="#gh-dark-mode-only">
 </a>
 <a href="https://github.com/Japiahh#gh-light-mode-only">
-  <img alt="" src="banner-light.svg#gh-light-mode-only">
+  <img alt="" src="#gh-light-mode-only">
 </a>
 
 <a href="https://github.com/Japiahh#gh-dark-mode-only">
