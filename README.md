@@ -15,17 +15,11 @@
 <a href="https://github.com/Japiahh#gh-light-mode-only">
   <img alt="" src="helloworld/banner2-center.svg#gh-light-mode-only">
 </a>
-
-<p align="left">Hello cruel World! My name is Jafi, I am in the process of self-learning to better understand the fundamentals of Natural Language Processing, Computer Vision, and Generative AI. (i hate my life >///<) 
-
-</h1><br><br>I hope i can find a friend in here <img height="35" src="https://i.imgflip.com/adfqd6.gif"/>
 <!--header-->
 
-<!--bio-->
-###
-<br clear="both">
+---
 
-<h1 align="center">BUKANKAH INI MY BIO😳</h1>
+<!--bio-->
 
 ###
 
