@@ -91,7 +91,7 @@ ___________________________________________________            |            ____
       <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
     </td>
     <td  width="62%" valign="top">
-      lorem ipsum rtbrtgrttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+      lorem ipsum 
     </td>
   </tr>
 </table>
