@@ -90,9 +90,6 @@ ___________________________________________________            |            ____
     <td width="38%" valign="top" align="center">
       <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
     </td>
-  </tr>
-        
-  <tr>
     <td  width="62%" valign="top">
       lorem ipsum rtbrtgrttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
     </td>
