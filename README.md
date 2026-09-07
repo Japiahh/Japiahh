@@ -83,9 +83,19 @@ ___________________________________________________            |            ____
 ###
 
 <br clear="both">
-
-<h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
-
+<table>
+  <tr>
+    <td>
+      <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+    </td>
+  </tr>
+        
+  <tr>
+    <td>
+      <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
+    </td>
+  </tr>
+</table>
 ###
 
 <div align="center">
