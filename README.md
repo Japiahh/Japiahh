@@ -88,13 +88,14 @@ ___________________________________________________            |            ____
 <table>
   <tr>
     <td width="38%" valign="top" align="center">
-      <img height="356" src="https://i.imgflip.com/adfy6o.gif"  />
+      <img src="https://i.imgflip.com/adfy6o.gif"  />
     </td>
     <td  width="62%" valign="top">
       lorem ipsum 
     </td>
   </tr>
 </table>
+
 ###
 
 <div align="center">
