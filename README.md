@@ -87,10 +87,10 @@ ___________________________________________________            |            ____
 <br clear="both">
 <table>
   <tr>
-    <td width="38%" valign="top" align="center">
+    <td valign="center" align="center">
       <img src="https://i.imgflip.com/adfy6o.gif"  />
     </td>
-    <td  width="62%" valign="top">
+    <td valign="center">
       lorem ipsum 
     </td>
   </tr>
