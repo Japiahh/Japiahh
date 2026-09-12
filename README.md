@@ -88,16 +88,8 @@ ___________________________________________________            |            ____
  <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
 
 <br clear="both">
-<table>
-  <tr>
-    <td valign="center" align="center">
-      <img src="https://i.imgflip.com/adfy6o.gif"  />
-    </td>
-    <td valign="center">
-      lorem ipsum 
-    </td>
-  </tr>
-</table>
+     
+<img align="center" src="https://i.imgflip.com/adfy6o.gif"/>
 
 ###
 
