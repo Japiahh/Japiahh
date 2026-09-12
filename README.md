@@ -88,8 +88,11 @@ ___________________________________________________            |            ____
  <h1 align="center">THANK FOR VISIT MY PROFILE >///<</h1>
 
 <br clear="both">
-     
-<img align="center" src="https://i.imgflip.com/adfy6o.gif"/>
+
+
+<div align="center">
+ <img src="https://i.imgflip.com/adfy6o.gif"/>
+</div> 
 
 ###
 
