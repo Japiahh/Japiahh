@@ -43,7 +43,7 @@ fundamentals  of   Natural   Language   Processing,            |            Role
 Computer     Vision,     and     Generative     AI.            |            TextEditor: ................................. Paper              |             ##"              ##         ##    ##       #  #
 (i hate my life >///<)                                         |                                                                             |             ##               ##         #######       ##  ## 
                                                                |            WhoamI: ................................. Argathans              |             ##m              ##         ##  "##m      ##  ##
-I hope i can find a friend in here :D                          |            Prefer: ................................ not to say              |             ##m              ##         ##  "##m      ###### 
+I hope i can find friends in here :D                           |            Prefer: ................................ not to say              |             ##m              ##         ##  "##m      ###### 
                                                                |            Location: ............................. Java Island              |              ##mmmm#         ##         ##    ##     m##  ##m
                                                                |            Waifu: ..................................... karbit              |                """"          ""         ""    """    ""    ""
                                                                |                                                                             |
